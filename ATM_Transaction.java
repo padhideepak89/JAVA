@@ -1,6 +1,6 @@
 /* Assignment 1  CSYE6200 33701 Concepts of Object Oriented Design Sec-01 Automated Teller Machine
-  Name: Vrushali Muralidhar Patil
-   NUID: 001200648             */
+  Name: Deepak Padhi
+  */
 
 
 
